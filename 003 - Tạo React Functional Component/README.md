@@ -20,4 +20,6 @@
 
 ![Imgur](https://i.imgur.com/wHP14Fk.png)   
 
+* Phím tắt tạo Functional Component sau khi cài extension: rfc  
 
+![Imgur](https://i.imgur.com/7z4zh3b.png)  
